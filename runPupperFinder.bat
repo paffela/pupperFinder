@@ -1,0 +1,1 @@
+"C:\Python39\python.exe" "C:\Buildworkspace\apps\pupperFinder\pupperFinder.py" >> C:\Buildworkspace\apps\pupperFinder\log.txt
